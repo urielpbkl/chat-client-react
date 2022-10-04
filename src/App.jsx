@@ -5,7 +5,7 @@ import { useEffect } from 'react'
 import { useRef } from 'react'
 
 //const socket = io('http://localhost:8080') //CON ESTA VARIABLE VAMOS A PODER MANDAR OBJETOS Y ESCUCHAR OBJETOS AL SERVIDOR
-const socket = io('https://chatappnodetest.herokuapp.com/') //CON ESTA VARIABLE VAMOS A PODER MANDAR OBJETOS Y ESCUCHAR OBJETOS AL SERVIDOR
+const socket = io('https://chatappnodetest.herokuapp.com') //CON ESTA VARIABLE VAMOS A PODER MANDAR OBJETOS Y ESCUCHAR OBJETOS AL SERVIDOR
 
 function App() {
   
