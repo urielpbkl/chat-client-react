@@ -117,4 +117,10 @@ input:focus {
   .container {
     width: 80%;
   }
+  .mensaje-usuario{
+    width: 80%;
+  }
+  .mensaje-externo{
+    width: 80%;
+  }
 }
